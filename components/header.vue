@@ -9,7 +9,7 @@
         <label for="menu-btn-check" class="menu-btn"><span></span></label>
         <div class="menu-content">
           <ul>
-            <li style="text-align: left">
+            <li style="text-align: left;padding-left:6px;">
               <v-img
                 v-bind:src="image2"
                 style="
@@ -31,7 +31,7 @@
 
               <a href="#">kids</a>
             </li>
-            <li style="text-align: left">
+            <li style="text-align: left;padding-left:6px;">
               <v-img
                 v-bind:src="image4"
                 style="
@@ -45,14 +45,7 @@
 
               <a href="#">goods</a>
             </li>
-            <li style="text-align: right; padding-right: 6px">
-              <v-img
-                v-bind:src="image5"
-                style="width: 32px; margin-top: 3px; float: left"
-              ></v-img>
-
-              <a href="/">home</a>
-            </li>
+            
           </ul>
         </div>
       </div>
