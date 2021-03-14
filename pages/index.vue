@@ -36,22 +36,22 @@
     <div class="index-imagelink">
       <div class="imdex-clo1">
         <v-img class="index-images1" v-bind:src="indeximage2"
-          ><span>name</span></v-img
+          ></v-img
         ><v-img class="index-images-side" v-bind:src="indeximage6"></v-img>
       </div>
       <div class="imdex-clo">
         <v-img class="index-images2" v-bind:src="indeximage3"
-          ><span>name</span></v-img
+          ></v-img
         ><v-img class="index-images-side1" v-bind:src="indeximage7"></v-img>
       </div>
       <div class="imdex-clo1">
         <v-img class="index-images1" v-bind:src="indeximage4"
-          ><span>name</span></v-img
+          ></v-img
         >
       </div>
       <div class="imdex-clo">
         <v-img class="index-images2" v-bind:src="indeximage5"
-          ><span>name</span></v-img
+          ></v-img
         ><v-img class="index-images-side3" v-bind:src="indeximage9"></v-img>
         <v-img class="index-images-side2" v-bind:src="indeximage8"></v-img>
       </div>

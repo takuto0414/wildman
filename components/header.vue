@@ -21,7 +21,7 @@
                 "
               ></v-img>
 
-              <a href="#">clothes </a>
+              <a href="/clothes">clothes </a>
             </li>
             <li style="text-align: right; padding-right: 6px">
               <v-img
@@ -29,7 +29,7 @@
                 style="width: 32px; margin-top: 3px; float: left"
               ></v-img>
 
-              <a href="#">kids</a>
+              <a href="/kids">kids</a>
             </li>
             <li style="text-align: left; padding-left: 6px">
               <v-img
@@ -43,7 +43,7 @@
                 "
               ></v-img>
 
-              <a href="#">goods</a>
+              <a href="/goods">goods</a>
             </li>
           </ul>
         </div>
