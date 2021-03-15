@@ -141,34 +141,35 @@ export default {
   text-decoration-line: none;
 }
 .index-images1 {
-  width: 80%;
   float: left;
   margin: 6px 1%;
   position: relative;
+  padding: 20px 0px;
+
 }
 .index-imagelink {
   margin: 6px 2px;
 }
 .index-images2 {
-  width: 80%;
   float: right;
   margin: 6px 1%;
   position: relative;
+  padding: 20px 0px;
 }
 .index-images-side {
   position: absolute;
-  margin: 100px 0px 0px 300px;
+  margin: 100px 0px 0px 290px;
   opacity: .3;
 }
 .index-images-side1 {
   position: absolute;
-  margin: 550px 190px 0px 10px;
+  margin: 550px 190px 0px 0px;
   opacity: .3;
 
 }
 
 .index-images-side2 {
-  margin: 900px 0px 0px 300px;
+  margin: 900px 0px 0px 290px;
   position: absolute;
   opacity: .3;
 }
