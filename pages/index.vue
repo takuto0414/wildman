@@ -157,7 +157,7 @@ export default {
 }
 .index-images-side {
   position: absolute;
-  margin: 100px 0px 0px 290px;
+  margin: 100px 0px 0px 310px;
 }
 .index-images-side1 {
   position: absolute;
@@ -165,7 +165,7 @@ export default {
 }
 
 .index-images-side2 {
-  margin: 900px 0px 0px 290px;
+  margin: 900px 0px 0px 310px;
   position: absolute;
 }
 .index-images-side3{
