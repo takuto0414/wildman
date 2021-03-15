@@ -157,20 +157,26 @@ export default {
 }
 .index-images-side {
   position: absolute;
-  margin: 100px 0px 0px 310px;
+  margin: 100px 0px 0px 300px;
+  opacity: .3;
 }
 .index-images-side1 {
   position: absolute;
   margin: 550px 190px 0px 10px;
+  opacity: .3;
+
 }
 
 .index-images-side2 {
-  margin: 900px 0px 0px 310px;
+  margin: 900px 0px 0px 300px;
   position: absolute;
+  opacity: .3;
 }
 .index-images-side3{
   position: absolute;
   margin: 1300px 190px 0px 0px;
+  opacity: .3;
+
 }
 button, input, select, textarea {
     background-color: transparent;
